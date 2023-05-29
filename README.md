@@ -41,33 +41,9 @@ Here are the details of my journey:
 ## __*Repositórios*__ 💾
 
 <div style="display: inline_block">
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/100Days100Codes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=100Days100Codes&theme=tokyonight" />
+<a style="margin: 10px 20px" href="https://github.com/kauan02/First-Python-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kauan02&repo=First-Python-Projects&theme=tokyonight" />
 </a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/AppMed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=AppMed&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/horizonbank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=horizonbank&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/CifraHall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=CifraHall&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Blues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Blues&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Cinehub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Cinehub&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Projetos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Projetos&theme=tokyonight" />
-</a>
-<a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/Cursos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=Cursos&theme=tokyonight" />
- </a>
-  <a style="margin: 10px 20px" href="https://github.com/CarlosPegoraro/PythonCC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPegoraro&repo=PythonCC&theme=tokyonight" />
- </a>
   
  </div>
 
