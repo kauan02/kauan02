@@ -5,11 +5,11 @@
 
 ## About Me 📎
 
-Hello, I'm Kadu! I'm a young programmer passionate about technology and fully dedicated to the art of coding. Ever since I immersed myself in this fascinating world, I discovered that programming goes far beyond lines of code. It's a form of expression, a way to create innovative and impactful solutions.
+Hello, I'm Kauan! I'm a young programmer passionate about technology and fully dedicated to the art of coding.
 
-Every time I encounter a new challenge, it's like a universe of possibilities opens up before my eyes. The excitement I feel when tackling complex problems and finding efficient solutions is indescribable. Programming is a constant learning journey where curiosity and the pursuit of knowledge drive me forward.
+Every time I encounter a new challenge, it's like a universe of possibilities opens up before my eyes and I don't stop before a finish this challenge.
 
-I'm thrilled to share my journey in this personal repository. Here, in addition to projects I've developed, you'll find ideas that have arisen from my passion for programming. Every line of code is a manifestation of my enthusiasm and dedication.
+I'm thrilled to share my journey in this personal repository. Here, in addition to projects I've developed. Every line of code is a manifestation of my enthusiasm and dedication.
 
 Welcome to this space where the passion for programming comes to life! I'm eager to share knowledge, exchange ideas, and collaborate with other enthusiasts like you. Together, we can explore an infinite universe of possibilities and harness the potential of technology to create a positive impact in the world.
 
