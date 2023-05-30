@@ -1,5 +1,5 @@
 # 🖥️ *Welcome to my GitHub*
-> ## Front-End Developer ♾️
+> ## Novice ♾️
 
 <br/>
 
