@@ -44,6 +44,9 @@ Here are the details of my journey:
 <a style="margin: 10px 20px" href="https://github.com/kauan02/First-Python-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kauan02&repo=First-Python-Projects&theme=tokyonight" />
 </a>
+<a style="margin: 10px 20px" href="https://github.com/kauan02/Python_Pokedex_GUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kauan02&repo=Python_Pokedex_GUI&theme=tokyonight" />
+</a>
   
  </div>
 
