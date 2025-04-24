@@ -35,11 +35,13 @@
 
 ---
 
-<h3 align="left">📊 Estatísticas GitHub:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauan02&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas" />
-</p>
-<p>&nbsp;</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kauan02&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub" />
-</p>
+---
+
+<h3 align="center">📈 Minhas Estatísticas no GitHub</h3>
+
+<div align="center">
+  <a href="https://github.com/kauan02">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan02&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
