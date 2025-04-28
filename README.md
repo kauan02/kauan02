@@ -6,7 +6,7 @@
 - 👨‍💻 Meus projetos estão em: [github.com/kauan02](https://github.com/kauan02)
 - 🎯 Buscando minha **primeira oportunidade profissional na área de desenvolvimento**
 - 💬 Me chama pra conversar sobre **Python, automações e ideias de projeto**
-- ⚡ Curiosidade: **Amo música e games – já venci muitas partidas com meu Redragon King Cobra 😎**
+- ⚡ Curiosidade: **Amo música e resolver problemas**
 
 ---
 
