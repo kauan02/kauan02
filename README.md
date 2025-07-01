@@ -1,51 +1,84 @@
-<h1 align="center">Hey there 👋, I'm Kauan Barbosa</h1>
-<h3 align="center">🚀 Full Stack Developer in Progress | Passionate about Python & Technology</h3>
+
+<!-- Hero Banner -->
+<h1 align="center">Kauan Barbosa Rezende ⚡</h1>
+<h3 align="center">Crafting solutions with code | Full Stack Developer in the making</h3>
+
+<p align="center">
+  🚀 Focused on automation and modern web technologies. <br>
+  🎯 Exploring every opportunity to grow, learn and build impactful projects.
+</p>
 
 ---
 
-- 🔧 Currently working as an **Automation Technician I**  
-- 📚 Constantly learning **Python** (focused on automation and FastAPI), **Angular**, and **TypeScript**  
-- 💼 Seeking my **first professional opportunity in software development**  
-- 🧠 I love exploring **tech solutions**, building projects, and automating tasks  
-- 🎵 Fun fact: I'm a huge **music lover** and enjoy solving complex problems  
-- 💻 Check out some of my work on [GitHub](https://github.com/kauan02)  
+## 🧠 About Me
+
+I'm **Kauan**, a passionate developer with a technical background in automation and a love for Python. I believe in writing clean, efficient code that solves real-world problems — from streamlining manual tasks to building full-stack applications that users love.
+
+- 🧰 Currently working as an **Automation Technician I**
+- 📌 Based in **Brazil**
+- 👨‍💻 Studying **Python (Automation + FastAPI)**, **Angular**, and **TypeScript**
+- 💡 Always learning — always building
+- 🛠️ Looking for my **first opportunity as a professional developer**
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+## ⚙️ Tech Toolbox
+
+```txt
+💻 Languages:        Python | JavaScript | TypeScript | HTML | CSS
+🧰 Frameworks:       FastAPI | Django | Angular
+🔧 Tools:            Git | VSCode | Linux | Bash
+☁️ Cloud & DevOps:   AWS | GitHub Actions (learning)
+📊 Others:           JSON | REST APIs | Postman
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,angular,typescript,javascript,html,css,git,linux,aws" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+🚧 _Under Construction_ — but you can explore my experiments and personal projects at [github.com/kauan02](https://github.com/kauan02)
+
+> Most of my work focuses on **automation**, **system integration**, and full-stack web applications.
+
+---
+
+## 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kauan02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan02&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
 <p align="left">
   <a href="https://linkedin.com/in/kauan-barbosa-5b8133268/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kauan Barbosa on LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:kauanbrezende82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/kauan02" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack & Tools</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+## ✨ Quote That Drives Me
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_  
+> — Cory House
+
+---
+
+<!-- Footer badge -->
+<p align="center">
+  <sub>Powered by curiosity, music, and late-night coding sessions 🎧</sub>
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <a href="https://github.com/kauan02">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan02&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
----
-
-<h3 align="center">⚡ Let's Build Something Great Together!</h3>
