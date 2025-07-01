@@ -1,25 +1,25 @@
-<h1 align="center">Fala aí 👋, eu sou o Kauan Barbosa</h1>
-<h3 align="center">Desenvolvedor Full Stack em construção 🚀 | Apaixonado por Python e tecnologia</h3>
+<h1 align="center">Hey there 👋, I'm Kauan Barbosa</h1>
+<h3 align="center">Full Stack Developer in progress 🚀 | Passionate about Python and technology</h3>
 
-- 🔭 Atualmente atuando como **Técnico em Automação I**
-- 🌱 Estudando **Python (com foco em automação e FastAPI)**, **Angular** e **TypeScript**
-- 👨‍💻 Meus projetos estão em: [github.com/kauan02](https://github.com/kauan02)
-- 🎯 Buscando minha **primeira oportunidade profissional na área de desenvolvimento**
-- 💬 Me chama pra conversar sobre **Python, automações e ideias de projeto**
-- ⚡ Curiosidade: **Amo música e resolver problemas**
+- 🔭 Currently working as a **Automation Technician I**  
+- 🌱 Studying **Python (focused on automation and FastAPI)**, **Angular**, and **TypeScript**  
+- 👨‍💻 My projects are available at: [github.com/kauan02](https://github.com/kauan02)  
+- 🎯 Looking for my **first professional opportunity in development**  
+- 💬 Let's chat about **Python, automation, and project ideas**  
+- ⚡ Fun fact: **I love music and solving problems**
 
 ---
 
-<h3 align="left">🌐 Conecte-se comigo:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kauan-barbosa-5b8133268/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kauan Barbosa no LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kauan Barbosa on LinkedIn" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas:</h3>
+<h3 align="left">🛠️ Technologies & Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></a>
@@ -35,9 +35,7 @@
 
 ---
 
----
-
-<h3 align="center">📈 Minhas Estatísticas no GitHub</h3>
+<h3 align="center">📈 My GitHub Stats</h3>
 
 <div align="center">
   <a href="https://github.com/kauan02">
